@@ -2,7 +2,7 @@
 <htm>
 <head>
 
-<link rel="stylesheet" type="text/css" href="link.css"> 
+
 </head>
 <body>
 
