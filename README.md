@@ -1,7 +1,6 @@
-<!doctype html>
+
 <htm>
 <head>
-<title>discover help</title>
 
 <link rel="stylesheet" type="text/css" href="link.css"> 
 </head>
@@ -20,7 +19,6 @@
 <tr>
 	<th scope="col">s.N.</th>
         <th scope="col">Video Link</th>
-        
         <th  id="viju" scope="col">Name of book</th>
         <th  id="viju"scope="col">MRP(₹)</th>
         <th  id="viju"scope="col">Discount</th>
